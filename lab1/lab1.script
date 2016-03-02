@@ -1,0 +1,19 @@
+Script started on 西元2016年03月03日 (週四) 05時38分13秒
+]0;root@joe:~/git[?1034h[root@joe git]# whoami;pwd
+root
+/root/git
+]0;root@joe:~/git[root@joe git]# git congih[K[K[Kfig -l
+user.name=jjoe0303
+user.email=jjoe0303@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://jjoe0303.backlogtool.com/git/TUTORIAL/tutorial.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;root@joe:~/git[root@joe git]# git clone https://github.com/jjoe0303/git[Clgitagitbgit.git1.git[C[C[C[C
+Initialized empty Git repository in /root/git/lab1/.git/
+warning: You appear to have cloned an empty repository.
+]0;root@joe:~/git[root@joe git]# exit
+
+Script done on 西元2016年03月03日 (週四) 05時40分33秒
