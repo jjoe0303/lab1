@@ -1,0 +1,26 @@
+Script started on 2016年03月02日 (週三) 23時11分24秒
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ whoami;pwd
+F74042010
+/home/F74042010
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ git config -l
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ git clone https://github.com/jjoe0303lan1.git[1P1.gitb1.git/lab1.git[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+remote: Counting objects: 7, done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 7 (delta 0), reused 7 (delta 0), pack-reused 0[K
+Unpacking objects:  14% (1/7)   Unpacking objects:  28% (2/7)   Unpacking objects:  42% (3/7)   Unpacking objects:  57% (4/7)   Unpacking objects:  71% (5/7)   Unpacking objects:  85% (6/7)   Unpacking objects: 100% (7/7)   Unpacking objects: 100% (7/7), done.
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ l[Kcd lab1
+]0;F74042010@2015cpp: ~/lab1F74042010@2015cpp:~/lab1$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  [01;34m.git[0m  [01;34mlab1[0m  sample.txt
+]0;F74042010@2015cpp: ~/lab1F74042010@2015cpp:~/lab1$ cd lab1
+]0;F74042010@2015cpp: ~/lab1/lab1F74042010@2015cpp:~/lab1/lab1$ ls
+lab1.script
+]0;F74042010@2015cpp: ~/lab1/lab1F74042010@2015cpp:~/lab1/lab1$ ;s [K[K[Kls -a
+[0m[01;34m.[0m  [01;34m..[0m  lab1.script
+]0;F74042010@2015cpp: ~/lab1/lab1F74042010@2015cpp:~/lab1/lab1$ cd ..
+]0;F74042010@2015cpp: ~/lab1F74042010@2015cpp:~/lab1$ cd ..
+]0;F74042010@2015cpp: ~F74042010@2015cpp:~$ exit
+
+Script done on 2016年03月02日 (週三) 23時13分35秒
